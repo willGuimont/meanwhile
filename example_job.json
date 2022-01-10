@@ -1,0 +1,12 @@
+{
+  "jobs": [
+    {
+      "name": "test1",
+      "command": "echo \"a\";sleep 5; echo \"b\""
+    },
+    {
+      "name": "test2",
+      "command": "echo \"c\";sleep 5; echo \"d\""
+    }
+  ]
+}
